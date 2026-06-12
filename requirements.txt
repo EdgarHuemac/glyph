@@ -1,0 +1,7 @@
+# Glyph dependencies
+# All core dependencies are Python standard library (3.10+):
+#   curses, hashlib, base64, unicodedata, html, urllib, re, threading, argparse
+# No third-party packages required.
+
+# Windows users: install windows-curses
+windows-curses>=2.3.0  # uncomment on Windows
